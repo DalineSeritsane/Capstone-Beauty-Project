@@ -900,7 +900,7 @@
     transform: translateY(-50%);
     margin-bottom: 8px;
     margin-right: -50px;
-    border: 1px solid var(--bs-white) !important;
+    border: 1px solid var(--bs-light) !important;
 }
 /*** Testimonial End ***/
 
@@ -949,7 +949,7 @@
 
 /*** Contact Start ***/
 .contact {
-    background: linear-gradient(rgba(21, 185, 217, 0.9), rgba(21, 185, 217, 0.9)), url(events-img.jpg);
+    background: linear-gradient(rgba(21, 185, 217, 0.9), rgba(21, 185, 217, 0.9)), url(client.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
